@@ -7,7 +7,7 @@ This [course](https://amigoscode.com/p/spring-boot-master-class) is perhaps the 
 ![cover](https://github.com/Andreas-Kreouzos/Spring-Master-Class-Course/blob/main/Spring%20Boot%20Master%20Class%20Front%20Cover.png)
 
 # Note
-In order to help myself in becoming better at functional programming I created many notes as comments in this repository.
+In order to help myself in becoming better at Spring Boot, I created many notes as comments in this repository.
 
 ## List of topics for this course
 - Restful API's
